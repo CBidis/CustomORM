@@ -1,0 +1,4 @@
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\ObjectOrientedSQL\bin\Debug\ObjectOrientedSQL.dll
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\ObjectOrientedSQL\bin\Debug\ObjectOrientedSQL.pdb
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\ObjectOrientedSQL\obj\Debug\ObjectOrientedSQL.dll
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\ObjectOrientedSQL\obj\Debug\ObjectOrientedSQL.pdb

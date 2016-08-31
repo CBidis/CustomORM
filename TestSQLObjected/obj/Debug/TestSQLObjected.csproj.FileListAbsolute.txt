@@ -1,0 +1,8 @@
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\TestSQLObjected\bin\Debug\TestSQLObjected.exe.config
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\TestSQLObjected\bin\Debug\TestSQLObjected.exe
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\TestSQLObjected\bin\Debug\TestSQLObjected.pdb
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\TestSQLObjected\bin\Debug\ObjectOrientedSQL.dll
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\TestSQLObjected\bin\Debug\ObjectOrientedSQL.pdb
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\TestSQLObjected\obj\Debug\TestSQLObjected.csprojResolveAssemblyReference.cache
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\TestSQLObjected\obj\Debug\TestSQLObjected.exe
+c:\users\chrigeta\documents\visual studio 2015\Projects\ObjectOrientedSQL\TestSQLObjected\obj\Debug\TestSQLObjected.pdb

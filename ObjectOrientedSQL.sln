@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedSQL", "ObjectOrientedSQL\ObjectOrientedSQL.csproj", "{2FFA5C46-263D-4D09-A082-A59686111882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSQLObjected", "TestSQLObjected\TestSQLObjected.csproj", "{6036C7DE-0FBD-42AC-B575-DC6743400A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FFA5C46-263D-4D09-A082-A59686111882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFA5C46-263D-4D09-A082-A59686111882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFA5C46-263D-4D09-A082-A59686111882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFA5C46-263D-4D09-A082-A59686111882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6036C7DE-0FBD-42AC-B575-DC6743400A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6036C7DE-0FBD-42AC-B575-DC6743400A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6036C7DE-0FBD-42AC-B575-DC6743400A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6036C7DE-0FBD-42AC-B575-DC6743400A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
