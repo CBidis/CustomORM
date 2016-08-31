@@ -5,9 +5,11 @@ A funny approach to how you can create a Custom ORM with just native SQL.
 At current stage of implementation the Library(ObjectOrientedSQL project) supports the following options:
 
 1)T SelectFirstOrDefault<T>(Expression<Func<T, bool>> where) where T : class
+
 The parameter is a lambda expression that is converted to SQL query and returns maximum one Object of T type.
 
 2)List<T> SelectMany<T>(Expression<Func<T, bool>> where) where T : class
+
 The parameter is a lambda expression that is converted to SQL query and returns a list of Objects of T type.
 
 #Example of Usages :
