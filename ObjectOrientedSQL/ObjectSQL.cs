@@ -26,6 +26,7 @@ namespace ObjectOrientedSQL
             {
                 con.Open();
 
+                //Creating Dynamically instance through the Type of the Class
                 var mappedObject = (T)Activator.CreateInstance(typeof(T));
 
                 var query = SQLConverter.FuncTest(where);
@@ -39,9 +40,12 @@ namespace ObjectOrientedSQL
                     while (reader.Read())
                     {
                         for (var i = 0; i < listOfProperties.Length; i++)
-                        {
+                        {   
+                            //Using Reflection to assign values of the Reader to the Properties of the Object
+                            //TODO: Find a way to make it faster
                             PropertyInfo propertyInfo = mappedObject.GetType().GetProperty(listOfProperties[i].Name);
-                            propertyInfo.SetValue(mappedObject, reader[listOfProperties[i].Name], null);
+                            //Handling DBnull values
+                            propertyInfo.SetValue(mappedObject, reader[listOfProperties[i].Name] == DBNull.Value ? null : reader[listOfProperties[i].Name], null);
                         }
                     }
                 }
